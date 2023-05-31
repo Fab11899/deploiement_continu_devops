@@ -12,6 +12,7 @@
 <ul>
     <li>Paris</li>
     <li>basel</li>
+    <li>Strasbourg</li>
 </ul>
 </body>
 </html>
