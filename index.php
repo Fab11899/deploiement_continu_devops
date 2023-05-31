@@ -8,6 +8,10 @@
     <title>Document</title>
 </head>
 <body>
-<h1>Devops Day</h1>
+<h1>Devops Day locations</h1>
+<ul>
+    <li>Paris</li>
+    <li>basel</li>
+</ul>
 </body>
 </html>
